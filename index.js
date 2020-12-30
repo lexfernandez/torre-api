@@ -5,7 +5,7 @@ const cors = require("cors");
 const app = express();
 
 const API_URL = process.env.API_URL;
-const PORT = process.env.PORT;
+const PORT = process.env.PORT || 3000;
 
 app.use(cors());
 
