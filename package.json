@@ -2,7 +2,6 @@
   "name": "torre-api",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
   "dependencies": {
     "body-parser": "^1.19.0",
     "cors": "^2.8.5",
